@@ -2,9 +2,7 @@
   <no-ssr>
     <section class="container">
       <div>
-        <div class="icon">
-          <img src="~/assets/razokulover-icon.png"/>
-        </div>
+        <Icon />
         <h1 class="title">
           razokulover
         </h1>
@@ -23,8 +21,10 @@
 </template>
 
 <script>
+import Icon from '~/components/Icon';
+
 export default {
-  components: {}
+  components: {Icon}
 }
 </script>
 
@@ -35,13 +35,6 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  .icon {
-    img {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-    }
-  }
   .title {
     font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
     display: block;

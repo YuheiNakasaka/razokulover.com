@@ -1,7 +1,7 @@
 {
-  "name": "razokulovercom",
-  "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "name": "razokulover",
+  "version": "1.0.1",
+  "description": "Personal Page",
   "author": "YuheiNakasaka <yuhei.nakasaka@gmail.com>",
   "private": true,
   "scripts": {

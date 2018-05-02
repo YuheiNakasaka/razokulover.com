@@ -2,9 +2,7 @@
   <no-ssr>
     <section class="container">
       <div>
-        <div class="icon">
-          <a href="/"><img src="~/assets/razokulover-icon.png"/></a>
-        </div>
+        <Icon />
         <div class="introduction">
           <section>
             <h2>名前</h2>
@@ -41,7 +39,7 @@
             <h2>説明</h2>
             <p>仕事ではRuby,Javascriptを主に使ったWebアプリケーションのフロント/サーバを作ったり。インフラはクラウドベースでAWSが主。GCPも少し。 クローラ、検索サーバ、広告サーバ、画像変換サーバ、ログ収集システムなどwebサービスでよく用いられるシステムは一通り構築経験あり。Electronを使ったデスクトップアプリ作成。ReactNativeを使ったモバイルアプリ開発。
             Imagemagick、FFmpeg、gifsicle等を用いた基本的な画像処理の知識アリ。どちらかというと細かいライブラリやミドルウェアを作ったりするよりはアプリ等のサービスを作る方が技術がわからん人からもFeedBackを得られやすいので好き。最近は変更に耐えうるコードの設計とか複数人で効率よく開発する仕組みとか実装より少し抽象的なレイヤーに興味が移りつつある。</p>
-            <p>プライベートでは<a href="http://nlab.itmedia.co.jp/nl/articles/1401/27/news095.html" target="_blank">Google Adwordsで彼女を募集したり</a>、パパ活について本人たちにインタビューしたり、インターネットの出会い系文化に関する調査や記事執筆を独自で行なったりしている。</p>
+            <p>プライベートでは<a href="http://nlab.itmedia.co.jp/nl/articles/1401/27/news095.html" target="_blank" rel="noopener">Google Adwordsで彼女を募集したり</a>、パパ活について本人たちにインタビューしたり、インターネットの出会い系文化に関する調査や記事執筆を独自で行なったりしている。</p>
           </section>
 
           <section>
@@ -77,8 +75,10 @@
 </template>
 
 <script>
+import Icon from '~/components/Icon';
+
 export default {
-  components: {}
+  components: {Icon}
 }
 </script>
 
@@ -90,14 +90,6 @@ export default {
   align-items: center;
   text-align: center;
   padding: 20px 0;
-  .icon {
-    text-align: center;
-    img {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-    }
-  }
   .introduction {
     font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
     display: block;
