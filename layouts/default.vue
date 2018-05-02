@@ -1,6 +1,7 @@
 <template>
   <div>
     <nuxt/>
+    <noscript>このページを閲覧するためにはJavascriptを有効にする必要があります。</noscript>
   </div>
 </template>
 
