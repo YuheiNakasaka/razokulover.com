@@ -41,6 +41,7 @@
           <p>仕事ではRuby,Javascriptを主に使ったWebアプリケーションのフロント/サーバを作ったり。インフラはクラウドベースでAWSが主。GCPも少し。 クローラ、検索サーバ、広告サーバ、画像変換サーバ、ログ収集システムなどwebサービスでよく用いられるシステムは一通り構築経験あり。Electronを使ったデスクトップアプリ作成。ReactNativeを使ったモバイルアプリ開発。
           Imagemagick、FFmpeg、gifsicle等を用いた基本的な画像処理の知識アリ。Railsなオールドサイトをアーキテクチャから構築し直したりも得意。静的コンテンツへのCloudFrontやkeyCDN導入から認証が必要なサイトをFastlyで配信するなどの経験も有るのでCDN活用もそれなりに出来る。どちらかというと細かいライブラリやミドルウェアを作ったりするよりはアプリ等のサービスを作る方が技術がわからん人からもFeedBackを得られやすいので好き。最近は変更に耐えうるコードの設計とか複数人で効率よく開発する仕組みとか実装より少し抽象的なレイヤーに興味が移りつつある。</p>
           <p>プライベートでは<a href="http://nlab.itmedia.co.jp/nl/articles/1401/27/news095.html" target="_blank" rel="noopener">Google Adwordsで彼女を募集したり</a>、パパ活について本人たちにインタビューしたり、インターネットの出会い系文化に関する調査や記事執筆を独自で行なったりしている。</p>
+          <p>雑なwebサービスやアプリを作るのが好き。</p>
           <p>読書が趣味で年間100冊くらいは読むが技術書以外の書籍も多いので興味は散らばりがち。悪意のある人が苦手。</p>
         </section>
 
@@ -101,6 +102,61 @@
             <li>
               <div class="work">
                 <h3><a href="https://yuheinakasaka.github.io/hello-project-one/" target="_blank">ハロプロワン</a></h3>
+                <p>ハロプロの全メンバーのやっているブログやSNSをまとめたサイト</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://yuheinakasaka.github.io/yukanya-front/" target="_blank">Juice=Juice顔診断</a></h3>
+                <p>DeepLearningを使ってJuice=Juiceの誰に似ているかを診断できるサイト</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://razokulover.hateblo.jp/entry/2017/08/21/130000" target="_blank">RNHBFav</a></h3>
+                <p>はてなブックマークのお気に入りフィードを使いやすくしたアプリ</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://wonderful-kepler-5018a5.netlify.com/#/" target="_blank">ポジティブおみくじ</a></h3>
+                <p>大吉しか出ないおみくじ</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://razokulover.hateblo.jp/entry/2018/05/14/170206" target="_blank">mspeakerdeck</a></h3>
+                <p>昔モバイルでみづらかったspeakerdeckをみやすくするためのサービス</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/radiorec" target="_blank">radiorec</a></h3>
+                <p>ラジオ録音サーバー。A&Gとradikoだけ対応している。</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/sayhuuzoku" target="_blank">sayhuuzoku</a></h3>
+                <p>風俗店っぽい名前を生成するライブラリ</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/sayhuuzoku" target="_blank">sayhuuzoku</a></h3>
+                <p>風俗店っぽい名前を生成するライブラリ</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/vue-twitter-client" target="_blank">vue-twitter-client</a></h3>
+                <p>Vue+Electronで作ったTwitterクライアントサンプル</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/franz-scrapbox" target="_blank">franz-scrapbox</a></h3>
+                <p>FranzのScrapbox用のプラグイン</p>
               </div>
             </li>
           </ul>
