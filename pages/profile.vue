@@ -70,6 +70,41 @@
             <li>バイナリいじるときとかRubyに飽きた時とかはGo</li>
           </ul>
         </section>
+
+        <section>
+          <h2>運営サイト/制作物</h2>
+          <ul class="works">
+            <li>
+              <div class="work">
+                <h3><a href="https://gifmagazine.net/" target="_blank">GIFMAGAZINE</a></h3>
+                <p>メディア掲載: <a href="https://jp.techcrunch.com/2019/01/30/gifmagazine-fundraising/">TechCrunch</a></p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://gifmagazine.net/converters/teigashitsu" target="_blank">低画質画像メーカー</a></h3>
+                <p>メディア掲載: <a href="https://gigazine.net/news/20170311-teigashitsu-gazou-maker/">GIGAZINE</a></p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3>すしざんまいカメラ</h3>
+                <p>メディア掲載: <a href="https://nlab.itmedia.co.jp/nl/articles/1909/06/news118.html">ねとらぼ</a></p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://yuheinakasaka.github.io/marriage-ability-calc/" target="_blank">結婚偏差値診断</a></h3>
+                <p>Twitterトレンド１位獲得: <a href="https://twitter.com/hashtag/%E7%B5%90%E5%A9%9A%E5%81%8F%E5%B7%AE%E5%80%A4%E8%A8%BA%E6%96%AD?src=hash">みんなの反応</a></p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://yuheinakasaka.github.io/hello-project-one/" target="_blank">ハロプロワン</a></h3>
+              </div>
+            </li>
+          </ul>
+        </section>
       </div>
     </div>
   </section>
@@ -111,9 +146,14 @@ export default {
       ul {
         padding: 0;
         list-style: none;
-        &.skill, &.hobby {
+        &.skill, &.hobby, &.works {
           list-style-type: disc;
           padding-left: 20px;
+        }
+        .work {
+          p {
+            font-size: 10pt;
+          }
         }
       }
     }
