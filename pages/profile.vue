@@ -6,8 +6,7 @@
         <section>
           <h2>名前</h2>
           <p>
-            中坂雄平(YuheiNakasaka)<br />
-            HN: razokulover
+            中坂雄平(YuheiNakasaka)
           </p>
         </section>
 
@@ -21,28 +20,22 @@
         <section>
           <h2>趣味</h2>
           <ul class="hobby">
-            <li>webで何かを作る</li>
-            <li>詰将棋を解く</li>
-            <li>声優ラジオを聴く</li>
-            <li>ハロプロ</li>
+            <li>web/mobileで何かを作る</li>
             <li>読書</li>
-            <li>美術鑑賞</li>
-            <li>インターネットの出会いと性に関する調査</li>
+            <li>ラジオ</li>
+            <li>ハロプロ</li>
           </ul>
         </section>
 
         <section>
           <h2>職業</h2>
-          <p>WEBエンジニア</p>
+          <p>Software Developer</p>
         </section>
 
         <section>
           <h2>説明</h2>
           <p>仕事ではRuby,Javascriptを主に使ったWebアプリケーションのフロント/サーバを作ったり。インフラはクラウドベースでAWSが主。GCPも少し。 クローラ、検索サーバ、広告サーバ、画像変換サーバ、ログ収集システムなどwebサービスでよく用いられるシステムは一通り構築経験あり。Electronを使ったデスクトップアプリ作成。ReactNativeを使ったモバイルアプリ開発。
-          Imagemagick、FFmpeg、gifsicle等を用いた基本的な画像処理の知識アリ。Railsなオールドサイトをアーキテクチャから構築し直したりも得意。静的コンテンツへのCloudFrontやkeyCDN導入から認証が必要なサイトをFastlyで配信するなどの経験も有るのでCDN活用もそれなりに出来る。どちらかというと細かいライブラリやミドルウェアを作ったりするよりはアプリ等のサービスを作る方が技術がわからん人からもFeedBackを得られやすいので好き。最近は変更に耐えうるコードの設計とか複数人で効率よく開発する仕組みとか実装より少し抽象的なレイヤーに興味が移りつつある。</p>
-          <p>プライベートでは<a href="http://nlab.itmedia.co.jp/nl/articles/1401/27/news095.html" target="_blank" rel="noopener">Google Adwordsで彼女を募集したり</a>、パパ活について本人たちにインタビューしたり、インターネットの出会い系文化に関する調査や記事執筆を独自で行なったりしている。</p>
-          <p>雑なwebサービスやアプリを作るのが好き。</p>
-          <p>読書が趣味で年間100冊くらいは読むが技術書以外の書籍も多いので興味は散らばりがち。悪意のある人が苦手。</p>
+          Imagemagick、FFmpeg、gifsicle等を用いた基本的な画像処理の知識アリ。Railsなオールドサイトをアーキテクチャから構築し直したりも得意。静的コンテンツへのCloudFrontやkeyCDN導入から認証が必要なサイトをFastlyで配信するなどの経験も有るのでCDN活用もそれなりに出来る。どちらかというと細かいライブラリやミドルウェアを作ったりするよりはアプリ等のサービスを作る方が技術がわからん人からもFeedBackを得られやすいので好き。最近はFlutter,Firebaseでのモバイルアプリ開発がメインなのでバックエンドを触ることが少なくなってきた。</p>
         </section>
 
         <section>
@@ -50,14 +43,18 @@
           <ul>
             <li>Ruby ★★★★</li>
             <li>Rails ★★★★</li>
+            <li>Go ★★</li>
+            <li>Python ★★</li>
             <li>Javascript ★★★</li>
-            <li>ReactNative ★★</li>
-            <li>Electron ★★</li>
+            <li>TypeScript ★★</li>
+            <li>ReactNative ★</li>
+            <li>Flutter ★★★★</li>
+            <li>Electron ★</li>
             <li>AWS ★★★</li>
             <li>GCP ★</li>
-            <li>Go ★★</li>
-            <li>Python ★</li>
+            <li>Firebase ★★★</li>
           </ul>
+          <p>2021/03更新</p>
         </section>
 
         <section>
@@ -65,8 +62,8 @@
           <ul class="skill">
             <li>webは大体Ruby&amp;Railsで片付ける</li>
             <li>サーバーはAWS</li>
-            <li>アプリはReactNative + ES6(+flow)</li>
-            <li>フロントはJavascript+Vue.js</li>
+            <li>アプリはFlutter+Firebase</li>
+            <li>フロントはJavascript/TypeScript+Vue.js</li>
             <li>機械学習系のタスクをやりたい時とAWS Lambdaを書く時はPython</li>
             <li>バイナリいじるときとかRubyに飽きた時とかはGo</li>
           </ul>
@@ -143,12 +140,6 @@
             </li>
             <li>
               <div class="work">
-                <h3><a href="https://github.com/YuheiNakasaka/sayhuuzoku" target="_blank">sayhuuzoku</a></h3>
-                <p>風俗店っぽい名前を生成するライブラリ</p>
-              </div>
-            </li>
-            <li>
-              <div class="work">
                 <h3><a href="https://github.com/YuheiNakasaka/vue-twitter-client" target="_blank">vue-twitter-client</a></h3>
                 <p>Vue+Electronで作ったTwitterクライアントサンプル</p>
               </div>
@@ -157,6 +148,24 @@
               <div class="work">
                 <h3><a href="https://github.com/YuheiNakasaka/franz-scrapbox" target="_blank">franz-scrapbox</a></h3>
                 <p>FranzのScrapbox用のプラグイン</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/flutter_live_photos" target="_blank">flutter_live_photos</a></h3>
+                <p>mp4からLivePhotosを作成するFlutter用のライブラリ。iOS限定。</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/flutter_ig_story" target="_blank">ig_story</a></h3>
+                <p>ストーリーのUIを実現するFlutter用のライブラリ</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://github.com/YuheiNakasaka/ag_viewer" target="_blank">AgViewer</a></h3>
+                <p>A&Gの視聴アプリ</p>
               </div>
             </li>
           </ul>

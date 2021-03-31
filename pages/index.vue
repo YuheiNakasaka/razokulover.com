@@ -3,15 +3,15 @@
     <div>
       <Icon />
       <h1 class="title">
-        razokulover
+        YuheiNakasaka
       </h1>
       <nav>
         <ul class="links">
           <li><a href="/profile">Profile</a></li>
           <li><a href="https://twitter.com/razokulover" target="_blank" rel="noopener">Twitter</a></li>
-          <li><a href="https://www.facebook.com/YuheiNakasaka" target="_blank" rel="noopener">Facebook</a></li>
           <li><a href="https://razokulover.hateblo.jp/" target="_blank" rel="noopener">Blog</a></li>
           <li><a href="https://github.com/YuheiNakasaka" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://zenn.dev/razokulover" target="_blank" rel="noopener">Zenn</a></li>
         </ul>
       </nav>
     </div>
