@@ -1,10 +1,9 @@
 <template>
   <section class="container">
     <div class="section">
-    <strong>Privacy Policy</strong>
-    <p>
-                  YuheiNakasaka built the Migawari app as
-                  a Free app. This SERVICE is provided by
+    <strong>Privacy Policy</strong> <p>
+                  YuheiNakasaka built the Migawarii app as
+                  an Ad Supported app. This SERVICE is provided by
                   YuheiNakasaka at no cost and is intended for use as
                   is.
                 </p> <p>
@@ -20,14 +19,13 @@
                 </p> <p>
                   The terms used in this Privacy Policy have the same meanings
                   as in our Terms and Conditions, which is accessible at
-                  Migawari unless otherwise defined in this Privacy Policy.
-                </p>
+                  Migawarii unless otherwise defined in this Privacy Policy.</p>
       </div>
       <div class="section">
       <p><strong>Information Collection and Use</strong></p> <p>
                   For a better experience, while using our Service, I
                   may require you to provide us with certain personally
-                  identifiable information, including but not limited to YuheiNakasaka. The information that
+                  identifiable information. The information that
                   I request will be retained on your device and is not collected by me in any way.
                 </p> <div><p>
                     The app does use third party services that may collect
@@ -35,7 +33,7 @@
                   </p> <p>
                     Link to privacy policy of third party service providers used
                     by the app
-                  </p> <ul><!----><!----><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div>
+                  </p> <ul><!----><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener noreferrer">AdMob</a></li><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div>
       </div>
       <div class="section">
       <p><strong>Log Data</strong></p> <p>
@@ -64,7 +62,7 @@
                   and know when a cookie is being sent to your device. If you
                   choose to refuse our cookies, you may not be able to use some
                   portions of this Service.
-                </p>
+                </p> 
       </div>
       <div class="section">
       <p><strong>Service Providers</strong></p> <p>
@@ -76,7 +74,7 @@
                   Information. The reason is to perform the tasks assigned to
                   them on our behalf. However, they are obligated not to
                   disclose or use the information for any other purpose.
-                </p>
+                </p> 
       </div>
       <div class="section">
       <p><strong>Security</strong></p> <p>
@@ -104,7 +102,7 @@
       <p><strong>Children’s Privacy</strong></p> <p>
                   These Services do not address anyone under the age of 13.
                   I do not knowingly collect personally
-                  identifiable information from children under 13. In the case
+                  identifiable information from children under 13 years of age. In the case
                   I discover that a child under 13 has provided
                   me with personal information, I immediately
                   delete this from our servers. If you are a parent or guardian
@@ -120,7 +118,7 @@
                   periodically for any changes. I will
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
-                </p> <p>This policy is effective as of 2020-12-28</p>
+                </p> <p>This policy is effective as of 2021-08-25</p>
       </div>
       <div class="section">
       <p><strong>Contact Us</strong></p> <p>
