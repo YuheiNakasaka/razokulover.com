@@ -168,6 +168,20 @@
                 <p>A&Gの視聴アプリ</p>
               </div>
             </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://razokulover.com/migawari/about/" target="_blank">Migawari ~しつこいセールスや勧誘を男の声で撃退~</a></h3>
+                <p>Migawariはしつこい訪問販売や勧誘に困っている一人暮らしの方向けに男性のボイスを提供するアプリです。
+
+</p>
+              </div>
+            </li>
+            <li>
+              <div class="work">
+                <h3><a href="https://razokulover.com/fleet_art_editor/about/" target="_blank">Fleet Art Editor</a></h3>
+                <p>Fleet Art Editor is an application for creating FleetArt using emojis and texts.</p>
+              </div>
+            </li>
           </ul>
         </section>
       </div>
