@@ -33,24 +33,15 @@ module.exports = {
   /*
    ** Build configuration
    */
-  build: {
-    /*
-     ** Run ESLint on save
-     */
-    extend(config, { isDev, isClient }) {
-      if (isDev && isClient) {
-        config.module.rules.push({
-          enforce: "pre",
-          test: /\.(js|vue)$/,
-          loader: "eslint-loader",
-          exclude: /(node_modules)/
-        });
-      }
-    }
-  },
+  build: {},
+  components: true,
   modules: ["@nuxtjs/pwa"],
+  buildModules: [
+    // https://go.nuxtjs.dev/eslint
+    "@nuxtjs/eslint-module"
+  ],
   workbox: {
     dev: true
   },
-  mode: "universal"
+  target: "static"
 };
